@@ -56,6 +56,7 @@ Few survived, and since, their bloodline has been slowly spreading again.
 * +1 Intelligence
 * +2 Strength
 * Madness (You have to throw a sanity check for every action)
+* Resistent to Fire
 
 ## Semi-giant
 
